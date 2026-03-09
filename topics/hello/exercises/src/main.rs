@@ -9,5 +9,5 @@
 // Macros in Rust generate code at compile time and are
 // invoked with an exclamation mark (!).
 fn main() {
-    println!("Hello world");
+    println!("Hello Rust");
 }
